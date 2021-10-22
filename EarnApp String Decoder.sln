@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EarnApp String Decoder", "EarnApp String Decoder\EarnApp String Decoder.csproj", "{713E20F2-67F0-4A55-AC29-4668523EC94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713E20F2-67F0-4A55-AC29-4668523EC94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713E20F2-67F0-4A55-AC29-4668523EC94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713E20F2-67F0-4A55-AC29-4668523EC94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713E20F2-67F0-4A55-AC29-4668523EC94B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B611CB18-8CD1-45CB-8F4A-F17E7E22AD41}
+	EndGlobalSection
+EndGlobal
